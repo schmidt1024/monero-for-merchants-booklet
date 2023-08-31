@@ -22,7 +22,7 @@ A printable booklet to attract merchants to accept Monero.
 The booklet is available in
 
 - [English, PDF](assets/pdfs/Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
-- [Deutsch, PDF](assets/pdfs/Monero%20fuer%20Haedler%20Flyer%20-%20deutsch.pdf)
+- [Deutsch, PDF](assets/pdfs/Monero%20fuer%20Haendler%20Flyer%20-%20deutsch.pdf)
 ## How to contribute
 
 You can add a translation for your own language. Just [fork this repository](https://github.com/ASchmidt1024/monero-for-merchants-booklet/fork), add a new file in folder `translations`, e.g. spanish.md, and create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=webui).
