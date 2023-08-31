@@ -9,13 +9,13 @@ A printable booklet to attract merchants to accept Monero.
 
 ## Preview
 
-![Page One](assets/images/Screenshot%202023-08-30%20at%2017.52.38.png)
+![Page One](assets/images/Screenshot%202023-08-31%20at%2007.50.14.png)
 
-![Page Two](assets/images/Screenshot%202023-08-30%20at%2017.52.55.png)
+![Page Two](assets/images/Screenshot%202023-08-31%20at%2007.50.18.png)
 
-![Reader One](assets/images/Screenshot%202023-08-30%20at%2017.53.04.png)
+![Reader One](assets/images/Screenshot%202023-08-31%20at%2007.50.24.png)
 
-![Reader Two](assets/images/Screenshot%202023-08-30%20at%2017.53.08.png)
+![Reader Two](assets/images/Screenshot%202023-08-31%20at%2007.50.28.png)
 
 ## Available languages
 
