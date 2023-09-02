@@ -7,10 +7,10 @@ Eine druckbare Broschüre, um Händler dazu zu bewegen, Monero zu akzeptieren.
 
 Haben Sie einen Rechtschreib- oder anderen Fehler gefunden? [Schreiben Sie es uns](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Danke.
 
-![Seite 1](images/Screenshot%202023-09-02%20at%2009.04.33.png)
+![Seite 1](images/Screenshot%202023-09-02%20at%2010.27.10.png)
 
-![Seite 2](images/Screenshot%202023-09-02%20at%2009.26.45.png)
+![Seite 2](images/Screenshot%202023-09-02%20at%2010.27.14.png)
 
-![Vorschau 1](images/Screenshot%202023-09-02%20at%2009.04.43.png)
+![Vorschau 1](images/Screenshot%202023-09-02%20at%2010.27.18.png)
 
-![Vorschau 2](images/Screenshot%202023-09-02%20at%2009.26.53.png)
+![Vorschau 2](images/Screenshot%202023-09-02%20at%2010.27.21.png)
