@@ -2,7 +2,8 @@
 
 Eine druckbare Broschüre, um Händler dazu zu bewegen, Monero zu akzeptieren.
 
-[&#10515; Download PDF](./Monero%20fuer%20Haendler%20Flyer%20-%20deutsch.pdf)
+[&#10515; Download DE PDF](./Monero%20fuer%20Haendler%20Flyer%20-%20de-DE.pdf)
+[&#10515; Download CH PDF](./Monero%20fuer%20Haendler%20Flyer%20-%20de-CH.pdf)
 
 Haben Sie einen Rechtschreib- oder anderen Fehler gefunden? [Schreiben Sie es uns](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Danke.
 
