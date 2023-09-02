@@ -34,7 +34,7 @@ Sii parte della rivoluzione
 
 Fai il primo passo
 
-Con Monero, tu non sei solo un trader, ma anche un pioniero nella nuova era del commercio digitale. Non è giusto una questione tecnologica, ma anche fiducia, comunitá e futuro.
+Con Monero, tu non sei solo un trader, ma anche un pioniere nella nuova era del commercio digitale. Non è giusto una questione tecnologica, ma anche fiducia, comunitá e futuro.
 
 # Page 2
 
@@ -42,19 +42,19 @@ Facile come contanti, solo digitale!
 
 As easy as cash, only digital!
 
-Step 1:
+Passo 1:
 
 Installa un portafoglio di Monero sul tuo telefono. Ne esistono molti fidati e applicazioni gratuite nell'App Store, Play Store e F-Droid. Cake Wallet, Monerujo, MyMonero e Mysu si sono dimostrati validi.
 
-Step 2:
+Passo 2:
 
 Genera un codice QR con con l'importo da pagare direttamente dall'applicazione del portafoglio per ogni vendita.
 
-Step 3:
+Passo 3:
 
 Fai vedere il codice QR ai tuoi clienti. Lo scannerizzano semplicemente con il loro portafoglio di Monero e confermano il pagamento. Fatto!
 
-"I pagamenti sono sicuro e immutabili"
+"I pagamenti sono sicuri e immutabili"
 
 ---
 
