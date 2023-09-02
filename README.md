@@ -2,7 +2,9 @@
 
 A printable booklet to attract merchants to accept Monero.
 
-![Page One](/translations/en/images/Screenshot%202023-09-02%20at%2009.10.59.png)
+[Website](https://aschmidt1024.github.io/monero-for-merchants-booklet/)
+
+![Page One](translations/en/images/Screenshot%202023-09-02%20at%2009.10.59.png)
 
 ## Available languages
 
