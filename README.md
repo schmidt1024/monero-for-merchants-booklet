@@ -12,6 +12,7 @@ The booklet is available in
 
 - [English](/translations/en/README.md)
 - [German](/translations/de/README.md)
+- [Italian](/translations/it/README.md)
 ## How to contribute
 
 You can add a translation for your own language. 
