@@ -2,7 +2,7 @@
 
 A printable booklet to attract merchants to accept Monero.
 
-##[&#10515; Download PDF](./Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
+[&#10515; Download PDF](./Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
 
 Found a spelling or other mistake? Feel free to [create an issue](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Thank you.
 

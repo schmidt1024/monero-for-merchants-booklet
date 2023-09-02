@@ -18,7 +18,7 @@ You can add a translation for your own language.
 - add a new folder in directory `translations`, e.g. “es” for spanish
 - create a translation-spanish.md
 - translate an existing one (e.g. [translation-english.md](/translations/en/translation-english.md))
-- create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=webui).
+- create a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request?tool=webui)
 
 The pull request of a translation should be proofread by a native speaker. The PDF is then placed in the newly created folder and a README with preview images is created by us.
 
