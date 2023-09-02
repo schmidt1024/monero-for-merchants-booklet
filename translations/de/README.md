@@ -8,8 +8,8 @@ Haben Sie einen Rechtschreib- oder anderen Fehler gefunden? [Schreiben Sie es un
 
 ![Seite 1](images/Screenshot%202023-09-02%20at%2009.04.33.png)
 
-![Seite 2](images/Screenshot%202023-09-02%20at%2009.04.38.png)
+![Seite 2](images/Screenshot%202023-09-02%20at%2009.26.45.png)
 
 ![Vorschau 1](images/Screenshot%202023-09-02%20at%2009.04.43.png)
 
-![Vorschau 2](images/Screenshot%202023-09-02%20at%2009.04.51.png)
+![Vorschau 2](images/Screenshot%202023-09-02%20at%2009.26.53.png)
