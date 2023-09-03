@@ -14,6 +14,7 @@ The booklet is available in
 - [French](/translations/fr/README.md)
 - [German](/translations/de/README.md)
 - [Italian](/translations/it/README.md)
+- [Spanish](/translations/es/README.md)
 ## How to contribute
 
 You can add a translation for your own language. 

@@ -34,7 +34,7 @@ Monero es una moneda comunitaria que no está controlada por ninguna autoridad c
 
 ¡Da el primer paso hoy!
 
-Con Monero, no solo eres un comerciante más, sino que también eres un pionero en la nueva era del comercio digital. No se trata sólo de tecnología, sino también de confianza, de comunidad y del futuro."
+Con Monero, no solo eres un comerciante más, sino que también eres un pionero en la nueva era del comercio digital. No se trata sólo de tecnología, sino también de confianza, de comunidad y del futuro.
 
 # Page 2
 
@@ -52,7 +52,7 @@ Paso 3:
 
 Muestra el código QR a tu cliente. Ellos simplemente lo escanean con su propia billetera de Monero y confirman el pago. ¡Listo!
 
-"Los pagos son seguros e inalterables.""
+"Los pagos son seguros e inalterables."
 
 ---
 

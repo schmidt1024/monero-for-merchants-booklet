@@ -1,15 +1,15 @@
-# Monero for Merchants
+# Monero para Comerciantes
 
-A printable booklet to attract merchants to accept Monero.
+Un folleto imprimible para atraer a los comerciantes a aceptar Monero.
 
-[&#10515; Download PDF](./Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
+[&#10515; Descargar PDF](./Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
 
-Found a spelling or other mistake? Feel free to [create an issue](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Thank you.
+¿Ha encontrado un error ortográfico o de otro tipo? No dude en [crear una issue](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Gracias.
 
-![Page 1](images/Screenshot%202023-08-31%20at%2007.50.14.png)
+![Página 1](images/Screenshot%202023-08-31%20at%2007.50.14.png)
 
-![Page 2](images/Screenshot%202023-09-02%20at%2009.24.47.png)
+![Página 2](images/Screenshot%202023-09-02%20at%2009.24.47.png)
 
-![Preview 1](images/Screenshot%202023-08-31%20at%2007.50.24.png)
+![Vista previa 1](images/Screenshot%202023-08-31%20at%2007.50.24.png)
 
-![Preview 2](images/Screenshot%202023-09-02%20at%2009.24.57.png)
+![Vista previa 2](images/Screenshot%202023-09-02%20at%2009.24.57.png)
