@@ -26,7 +26,7 @@ Décentralisation
 
 Monero est une monnaie communautaire non contrôlée par une autorité centrale.
 
-"Un smartphone avec une connexion Internet, et c'est parti!"
+« Un smartphone avec une connexion Internet, et c'est parti! »
 
 ---
 
@@ -52,7 +52,7 @@ Générez un code QR avec le montant à payer directement dans l'application de 
 
 Montrez le code QR à votre client. Il le scanne simplement avec son propre portefeuille Monero et confirme le paiement. C'est tout!
 
-"Les paiements sont sécurisés et immuables."
+« Les paiements sont sécurisés et immuables. »
 
 ---
 
@@ -60,18 +60,18 @@ Avantages
 
 Pour votre entreprise
 
-**Transactions rapides: Recevez des paiements presque en temps réel.**
+**Transactions rapides**: Recevez des paiements presque en temps réel.
 
-**Moins de frais: Pas de frais de carte de crédit ou bancaires.**
+**Moins de frais**: Pas de frais de carte de crédit ou bancaires.
 
-**Nouveaux clients: Atteignez la communauté croissante des passionnés de crypto.**
+**Nouveaux clients**: Atteignez la communauté croissante des passionnés de crypto.
 
-**Prêt pour l'avenir: Restez à jour avec les développements technologiques et les tendances.**
+**Prêt pour l'avenir**: Restez à jour avec les développements technologiques et les tendances.
 
 ---
 
-"Merci
-d'accepter Monero."
+« Merci
+d'accepter Monero. »
 
 monero.eco
 
