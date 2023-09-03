@@ -1,14 +1,14 @@
 # Page 1
 
-L'avenir numérique de l'argent liquide!
+L'avenir numérique de l'argent liquide !
 
-Monero pour les commerçants
+Monero pour les Commerçants
 
 monero.eco
 
 ---
 
-Pourquoi Monero?
+Pourquoi Monero ?
 
 Confidentialité
 
@@ -16,41 +16,41 @@ Les transactions Monero sont naturellement privées et non traçables.
 
 Sécurité
 
-Grâce à l'utilisation de techniques cryptographiques avancées, la réception de paiements est sécurisée et immuable.
+Grâce à l'utilisation de techniques cryptographiques avancées, la réception des paiements est sécurisée et immuable.
 
 Acceptation
 
-Acceptez les paiements de clients locaux ou internationaux sans frais élevés ni attentes.
+Acceptez les paiements de clients locaux ou internationaux sans frais élevés et sans attente.
 
 Décentralisation
 
-Monero est une monnaie communautaire non contrôlée par une autorité centrale.
+Monero est une monnaie communautaire contrôlée par aucune autorité centrale.
 
-« Un smartphone avec une connexion Internet, et c'est parti! »
+« Un smartphone avec une connexion Internet, et c'est parti ! »
 
 ---
 
-Rejoignez la révolution
+Prenez part à la révolution
 
-Faites le premier pas aujourd'hui!
+Faites le premier pas dès aujourd'hui !
 
-Avec Monero, vous n'êtes pas seulement un commerçant, mais aussi un pionnier dans la nouvelle ère du commerce numérique. Il ne s'agit pas seulement de technologie, mais aussi de confiance, de communauté et d'avenir.
+Avec Monero, vous n'êtes plus seulement un commerçant, mais devenez un pionnier dans la nouvelle ère du commerce numérique. Il ne s'agit pas seulement de technologie, mais aussi de confiance, de communauté et d'anticipation.
 
 # Page 2
 
-Aussi simple que de l'argent liquide, mais numérique!
+Aussi simple que de l'argent liquide, mais numérique !
 
-Étape 1:
+Étape 1 :
 
 Installez un portefeuille Monero sur votre smartphone. Il existe de nombreuses applications fiables et gratuites sur l'App Store, le Play Store et F-Droid. Cake Wallet, Monerujo, MyMonero et Mysu sont des choix éprouvés.
 
-Étape 2:
+Étape 2 :
 
-Générez un code QR avec le montant à payer directement dans l'application de portefeuille pour chaque vente.
+Générez pour chaque vente un QR code avec le montant à payer directement dans l'application de portefeuille.
 
-Étape 3:
+Étape 3 :
 
-Montrez le code QR à votre client. Il le scanne simplement avec son propre portefeuille Monero et confirme le paiement. C'est tout!
+Montrez le code QR à votre client. Il le scanne simplement avec son propre portefeuille Monero et confirme le paiement. C'est tout !
 
 « Les paiements sont sécurisés et immuables. »
 
@@ -60,13 +60,13 @@ Avantages
 
 Pour votre entreprise
 
-**Transactions rapides**: Recevez des paiements presque en temps réel.
+**Transactions rapides** : Recevez des paiements quasi instantanément.
 
-**Moins de frais**: Pas de frais de carte de crédit ou bancaires.
+**Moins de frais** : Pas de frais bancaires ou d'intermédiaires de crédits.
 
-**Nouveaux clients**: Atteignez la communauté croissante des passionnés de crypto.
+**Nouveaux clients** : Atteignez la communauté croissante des passionnés de cryptomonnaies.
 
-**Prêt pour l'avenir**: Restez à jour avec les développements technologiques et les tendances.
+**Prêt pour l'avenir** : Restez à jour avec les évolutions technologiques et les tendances.
 
 ---
 
