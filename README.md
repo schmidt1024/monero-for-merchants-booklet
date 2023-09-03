@@ -15,6 +15,7 @@ The booklet is available in
 - [German](/translations/de/README.md)
 - [Greek](/translations/el/README.md)
 - [Italian](/translations/it/README.md)
+- [Japanese](/translations/ja/README.md)
 - [Spanish](/translations/es/README.md)
 
 ## Print service provider
