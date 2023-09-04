@@ -2,14 +2,14 @@
 
 Um folheto imprimível para convencer comerciantes a aceitar Monero.
 
-[&#10515; Baixar PDF](./Monero%20for%20Merchants%20Booklet%20-%20english.pdf)
+[&#10515; Baixar PDF](./Monero%20para%20Comerciantes.pdf)
 
-Encontrou algum erro gramatical ou de digitação? Fique à vontade para [apontar um problema](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Obrigado.
+Encontrou algum erro gramatical ou de digitação? Fique à vontade para [apontar um issue](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Obrigado.
 
-![Page 1](images/Screenshot%202023-08-31%20at%2007.50.14.png)
+![Página 1](images/Screenshot%202023-09-04%20at%2008.37.55.png)
 
-![Page 2](images/Screenshot%202023-09-02%20at%2009.24.47.png)
+![Página 2](images/Screenshot%202023-09-04%20at%2008.37.59.png)
 
-![Preview 1](images/Screenshot%202023-08-31%20at%2007.50.24.png)
+![Prévia 1](images/Screenshot%202023-09-04%20at%2008.38.04.png)
 
-![Preview 2](images/Screenshot%202023-09-02%20at%2009.24.57.png)
+![Prévia 2](images/Screenshot%202023-09-04%20at%2008.38.07.png)

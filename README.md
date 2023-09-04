@@ -12,10 +12,11 @@ The booklet is available in
 
 - [English](/translations/en/README.md)
 - [French](/translations/fr/README.md)
-- [German](/translations/de/README.md)
+- [German (CH,DE)](/translations/de/README.md)
 - [Greek](/translations/el/README.md)
 - [Italian](/translations/it/README.md)
 - [Japanese](/translations/ja/README.md)
+- [Portuguese (BR)](/translations/br/README.md)
 - [Spanish](/translations/es/README.md)
 
 ## Print service provider

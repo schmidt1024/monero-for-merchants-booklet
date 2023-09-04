@@ -24,9 +24,9 @@ Receba de clientes locais ou internacionais sem taxas altas ou filas de espera.
 
 Descentralização
 
-Monero é uma moeda comunitária que não é controlada por uma autoridade central
+Monero é uma moeda comunitária que não é controlada por uma autoridade central.
 
-“Basta um smartphone com acesso à internet e pronto!”
+«Basta um smartphone com acesso à internet e pronto!»
 
 ---
 
@@ -52,7 +52,7 @@ Gere um QR Code com o valor a ser pago pelo cliente diretamente no aplicativo da
 
 Mostre o QR Code ao cliente para que ele possa escaneá-lo com sua carteira de Monero e confirmar o pagamento. Pronto!
 
-“Os pagamentos são seguros e inalteráveis”
+«Os pagamentos são seguros e inalteráveis»
 
 ---
 
@@ -70,8 +70,8 @@ Para o seu negócio
 
 ---
 
-“Obrigado,
-por aceitar Monero.”
+«Obrigado,
+por aceitar Monero.»
 
 monero.eco
 
