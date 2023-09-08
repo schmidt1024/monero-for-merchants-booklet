@@ -2,7 +2,7 @@
 
 "Monero kabulünü artırmak için tasarlanmış bir broşürdür."
 
-[&#10515;PDF İndirin](./Tüccarlar%20için%20Monero.pdf)
+[&#10515;PDF'i İndirin](./Tüccarlar%20için%20Monero.pdf)
 
 Yazım hatası ve benzeri durumları lütfen [belirtiniz](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Teşekkürler.
 
