@@ -26,7 +26,7 @@ Decentralisatie
 
 Monero is een gemeenschapsvaluta die niet wordt beheerd door een centrale autoriteit.
 
-«Smartphone met internet en klaar!»
+«Smartphone met internet en **klaar**!»
 
 ---
 
