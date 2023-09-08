@@ -10,6 +10,7 @@ A printable booklet to attract merchants to accept Monero.
 
 The booklet is available in
 
+- [Dutch](/translations/nl/README.md)
 - [English](/translations/en/README.md)
 - [French](/translations/fr/README.md)
 - [German (CH,DE)](/translations/de/README.md)
