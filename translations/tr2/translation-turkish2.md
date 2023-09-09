@@ -10,13 +10,13 @@ moneroturko.com
 
 Neden Monero?
 
-Gizlilik Hakkı 
+Gizlilik Hakkı
 
 Monero işlemleri özü itibariyle gizlidir ve izi sürülemez.
 
 Güvenlik
 
-Kabul edilen ödemeler ileri seviye şifreleme teknikleri sayesinde degiştirilemez ve güvendedir.
+Kabul edilen ödemeler ileri seviye şifreleme teknikleri sayesinde değiştirilemez ve güvendedir.
 
 Geçerlilik
 
@@ -30,7 +30,7 @@ Monero onu kullanan topluluğun kendi para sistemidir ve merkezi bir otoriteden 
 
 ---
 
-Degişimin parçası olun
+Değişimin parçası olun
 
 Bugünden başlayın!
 
