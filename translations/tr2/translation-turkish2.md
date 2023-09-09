@@ -26,7 +26,7 @@ Merkeziyetsizlik
 
 Monero onu kullanan topluluğun kendi para sistemidir ve merkezi bir otoriteden bağımsızdır.
 
-“Tek ihtiyacin internete erişebilen bir telefon!”
+“Tek ihtiyacın internete erişebilen bir telefon!”
 
 ---
 
@@ -42,7 +42,7 @@ Tıpkı nakit gibi kolay, fakat sanalda!
 
 Adım 1:
 
-Telefonunuza bir Monero cuzdanı yükleyin. App Store, Play Sore ve F-droid'de bir sürü güvenilir uygulama mevcut. Cake Wallet, Stack Wallet ve Monerujo genel kullanıcıları tarafından güvenilenler arasında.
+Telefonunuza bir Monero cüzdanı yükleyin. App Store, Play Sore ve F-droid'de bir sürü güvenilir uygulama mevcut. Cake Wallet, Stack Wallet ve Monerujo genel kullanıcıları tarafından güvenilenler arasında.
 
 Adım 2:
 
