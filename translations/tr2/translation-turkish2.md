@@ -1,8 +1,8 @@
 # Page 1
 
-Nakit paranin sanal gelecegi!
+Nakit paranın sanal geleceği!
 
-Isletmeler icin Monero
+İşletmeler için Monero
 
 moneroturko.com
 
@@ -10,68 +10,68 @@ moneroturko.com
 
 Neden Monero?
 
-Gizlilik Hakki
+Gizlilik Hakkı 
 
-Monero islemleri ozu itibariyle gizlidir ve izi surulemez.
+Monero işlemleri özü itibariyle gizlidir ve izi sürülemez.
 
-Guvenlik
+Güvenlik
 
-Kabul edilen odemeler ileri seviye sifreleme teknikleri sayesinde degistirilemez ve guvendedir.
+Kabul edilen ödemeler ileri seviye şifreleme teknikleri sayesinde degiştirilemez ve güvendedir.
 
-Gecerlilik
+Geçerlilik
 
-Yerel veya kuresel captaki musterilerinizden bekleme sureleri veya yuksek islem ucretleri olmadan odeme alin.
+Yerel veya küresel çaptaki müşterilerinizden bekleme süreleri veya yüksek işlem ücretleri olmadan ödeme alın.
 
 Merkeziyetsizlik
 
-Monero onu kullanan toplulugun kendi para sistemidir ve merkezi bir otoriteden bagimsizdir.
+Monero onu kullanan topluluğun kendi para sistemidir ve merkezi bir otoriteden bağımsızdır.
 
-“Tek ihtiyacin internete erisebilen bir telefon!”
+“Tek ihtiyacin internete erişebilen bir telefon!”
 
 ---
 
-Degisimin parcasi olun
+Degişimin parçası olun
 
-Bugunden baslayin!
+Bugünden başlayın!
 
-Monero ile sadece bir borsaci degil, ayni zamanda sanal ticaretin onculerinden olacaksiniz. Bu sadece teknoloji ile sinirli degil, ayni zamanda karsilikli guven, topluluk ve gelecek ile de ilgili.
+Monero ile sadece bir borsacı değil, aynı zamanda sanal ticaretin öncülerinden olacaksınız. Bu sadece teknoloji ile sınırlı değil, aynı zamanda karşılıklı güven, topluluk ve gelecek ile de ilgili.
 
 # Page 2
 
-Tipki nakit gibi kolay, fakat sanalda!
+Tıpkı nakit gibi kolay, fakat sanalda!
 
-Adim 1:
+Adım 1:
 
-Telefonunuza bir Monero cuzdani yukleyin. App Store, Play Sore ve F-droid'de bir suru guvenilir uygulama mevcut. Cake Wallet, Stack Wallet ve Monerujo genel kullanicilari tarafindan guvenilenler arasinda.
+Telefonunuza bir Monero cuzdanı yükleyin. App Store, Play Sore ve F-droid'de bir sürü güvenilir uygulama mevcut. Cake Wallet, Stack Wallet ve Monerujo genel kullanıcıları tarafından güvenilenler arasında.
 
-Adim 2:
+Adım 2:
 
-Her satis icin cuzdan icerisinden odeme miktarini da icinde bulunduran bir karekod olusturun.
+Her satış için cüzdan içerisinden ödeme miktarini da içinde bulunduran bir karekod oluşturun.
 
-Adim 3:
+Adım 3:
 
-Karekodu musterinize gosterin. Onlar da basitce karekodu Monero cuzdanlarinda okutup odemeyi onaylayacaklardir. Islem tamam!
+Karekodu müşterinize gösterin. Onlar da basitçe karekodu Monero cüzdanlarında okutup ödemeyi onaylayacaklardır. İşlem tamam!
 
-“Odemeler guvenli ve geri alinamazdir”
+“Ödemeler güvenli ve geri alınamazdır”
 
 ---
 
 Yararlar
 
-Isletmeniz icin
+İşletmeniz için
 
-**Hizli islemler**: Neredeyse aninda gerceklesen odemeler.
+**Hızlı işlemler**: Neredeyse anında gercekleşen ödemeler.
 
-**Dusuk ucretler**: Kredi karti veya banka islem ucretleri yok.
+**Düşük ücretler**: Kredi karti veya banka işlem ücretleri yok.
 
-**Yeni musteriler**: Buyumekte olan kriptopara meraklilarinin secimi olun.
+**Yeni müşteriler**: Büyümekte olan kriptopara meraklılarının seçimi olun.
 
-**Gelecege hazir**: Yeni teknolojik akimlar ve gelismelere ayak uydurun.
+**Geleceğe hazır**: Yeni teknolojik akımlar ve gelişmelere ayak uydurun.
 
 ---
 
-“Tesekkurler,
-Monero'yu tercih ettiginiz icin.”
+“Teşekkürler,
+Monero'yu tercih ettiğiniz için.”
 
 moneroturko.com
 
