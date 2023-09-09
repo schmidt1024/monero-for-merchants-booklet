@@ -62,7 +62,7 @@ Yararlar
 
 **Hızlı işlemler**: Neredeyse anında gercekleşen ödemeler.
 
-**Düşük ücretler**: Kredi karti veya banka işlem ücretleri yok.
+**Düşük ücretler**: Kredi kartı veya banka işlem ücretleri yok.
 
 **Yeni müşteriler**: Büyümekte olan kriptopara meraklılarının seçimi olun.
 
