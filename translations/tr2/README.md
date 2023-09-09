@@ -1,15 +1,15 @@
 # İşletmeler için Monero
 
-Isletmlere Monero'yu tanitan bastirilabilir bir kitapcik.
+İşletmlere Monero'yu tanıtan bastırılabilir bir kitapçık.
 
 [&#10515; PDF'i indirin](./TBD)
 
-Yazim hatasi ve diger yanlislar icin [haberdar edin](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Tesekkurler.
+Yazım hatası ve diğer yanlışlar için [haberdar edin](https://github.com/ASchmidt1024/monero-for-merchants-booklet/issues/new/choose). Teşekkürler.
 
-![Page 1](TBD)
+![Sayfa 1](TBD)
 
-![Page 2](TBD)
+![Sayfa 2](TBD)
 
-![Preview 1](TBD)
+![Önizleme 1](TBD)
 
-![Preview 2](TBD)
+![Önizleme 2](TBD)
