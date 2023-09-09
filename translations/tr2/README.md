@@ -1,4 +1,4 @@
-# Isletmeler icin Monero
+# İşletmeler için Monero
 
 Isletmlere Monero'yu tanitan bastirilabilir bir kitapcik.
 
