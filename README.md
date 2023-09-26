@@ -31,6 +31,7 @@ The booklet is available in
 - FR [Flyeralarm - Dépliants, pli roulé](https://www.flyeralarm.com/fr/p/depliants-pli-roule-4340066.html)
 - IT [Flyeralarm - Pieghevoli, piega a portafoglio](https://www.flyeralarm.com/it/p/pieghevoli-piega-a-portafoglio-4340066.html)
 - US [GotPrint.com](https://www.gotprint.com/products/brochures/info.html)
+- Global [vistaprint](https://www.vistaprint.com/marketing-materials/brochures)
 
 ## How to contribute
 
