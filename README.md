@@ -30,6 +30,8 @@ The booklet is available in
 - ES [Flyeralarm - Folletos con tríptico plegado paralelo](https://www.flyeralarm.com/es/p/folletos-con-triptico-plegado-paralelo-4340066.html)
 - FR [Flyeralarm - Dépliants, pli roulé](https://www.flyeralarm.com/fr/p/depliants-pli-roule-4340066.html)
 - IT [Flyeralarm - Pieghevoli, piega a portafoglio](https://www.flyeralarm.com/it/p/pieghevoli-piega-a-portafoglio-4340066.html)
+- US [GotPrint.com](https://www.gotprint.com/products/brochures/info.html)
+
 ## How to contribute
 
 You can add a translation for your own language. 
