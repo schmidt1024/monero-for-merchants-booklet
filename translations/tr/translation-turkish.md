@@ -1,77 +1,78 @@
 # Page 1
-Kripto paranın dijital geleceği!
 
-Tüccarlar için Monero
+Nakit paranın sanal geleceği!
 
-monero.eco
+İşletmeler için Monero
+
+moneroturko.com
 
 ---
 
 Neden Monero?
 
-Gizlilik
+Gizlilik Hakkı
 
-Monero işlemleri doğuştan gizli ve takip edilemezdir.
+Monero işlemleri özü itibariyle gizlidir ve izi sürülemez.
 
 Güvenlik
 
-Ödeme alımı, gelişmiş şifreleme tekniklerinin kullanımıyla güvenli ve değiştirilemez.
+Kabul edilen ödemeler ileri seviye şifreleme teknikleri sayesinde değiştirilemez ve güvendedir.
 
 Geçerlilik
 
-Müşterilerden yerel veya dünya çapında pahalı ücretler veya bekleme süreleri olmadan ödeme kabul edin.
+Yerel veya küresel çaptaki müşterilerinizden bekleme süreleri veya yüksek işlem ücretleri olmadan ödeme alın.
 
 Merkeziyetsizlik
 
-Monero, merkezi bir otorite tarafından kontrol edilmeyen bir topluluk parasıdır.
+Monero onu kullanan topluluğun kendi para sistemidir ve merkezi bir otoriteden bağımsızdır.
 
-"İnternetle bağlı bir akıllı telefon ve işte hazırsınız!"
+“Tek ihtiyacın internete erişebilen bir telefon!”
 
 ---
 
 Değişimin parçası olun
 
-Bugün ilk adımı atın!
+Bugünden başlayın!
 
-Monero ile sadece bir tüccar değil, aynı zamanda dijital ticaretin yeni çağında bir öncüsünüz. Bu sadece bir teknoloji meselesi değil, aynı zamanda güven, topluluk ve gelecekle ilgili bir mesele.
+Monero ile sadece bir borsacı değil, aynı zamanda sanal ticaretin öncülerinden olacaksınız. Bu sadece teknoloji ile sınırlı değil, aynı zamanda karşılıklı güven, topluluk ve gelecek ile de ilgili.
 
 # Page 2
 
-Tıpkı nakit gibi kolay, ayrıca dijital!
+Tıpkı nakit gibi kolay, fakat sanalda!
 
 Adım 1:
 
-Akıllı telefonunuzda güvenilir ve ücretsiz birçok uygulamanın bulunduğu App Store, Play Store 
-veyahut F-Droid'den bir Monero cüzdanı yükleyin.Cake Wallet, Monerujo, MyMonero ve Mysu uzun vadede kendilerini kanıtlamış cüzdanlardır.
+Telefonunuza bir Monero cüzdanı yükleyin. App Store, Play Sore ve F-droid'de bir sürü güvenilir uygulama mevcut. Cake Wallet, Stack Wallet ve Monerujo genel kullanıcıları tarafından güvenilenler arasında.
 
 Adım 2:
 
-Her satış için ödenecek miktarı doğrudan Cüzdan uygulamasında ödeme yapılacak bir QR kod oluşturun.
+Her satış için cüzdan içerisinden ödeme miktarini da içinde bulunduran bir karekod oluşturun.
 
 Adım 3:
 
-QR kodunu müşterinize gösterin. Onlar kendi Monero cüzdanlarıyla tararlar ve ödemeyi onaylarlar. Tamamlandı!
+Karekodu müşterinize gösterin. Onlar da basitçe karekodu Monero cüzdanlarında okutup ödemeyi onaylayacaklardır. İşlem tamam!
 
-"Ödemeler güvenlidir ve değiştirilemezdir."
-
----
-
-Avantajlar
-
-İşiniz için
-
-**Hızlı işlemler**: Ödemeleri neredeyse gerçek zamanlı olarak alın.
-
-**Düşük kesintiler**: Banka veyahut kredi kartı kesintileri yok.
-
-**Yeni müşteriler**: Kripto meraklılarının büyüyen topluluğuna hitap edin.
-
-**Geleceğe hazır olun**: Teknolojik gelişmelere ve trendlere ayak uydurun.
-
+“Ödemeler güvenli ve geri alınamazdır”
 
 ---
 
-"Monero'yu kabul ettiğiniz için teşekkür ederiz."
-monero.eco
+Yararlar
+
+İşletmeniz için
+
+**Hızlı işlemler**: Neredeyse anında gercekleşen ödemeler.
+
+**Düşük ücretler**: Kredi kartı veya banka işlem ücretleri yok.
+
+**Yeni müşteriler**: Büyümekte olan kriptopara meraklılarının seçimi olun.
+
+**Geleceğe hazır**: Yeni teknolojik akımlar ve gelişmelere ayak uydurun.
+
+---
+
+“Teşekkürler,
+Monero'yu tercih ettiğiniz için.”
+
+moneroturko.com
 
 ---
